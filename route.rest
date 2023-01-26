@@ -1,0 +1,29 @@
+GET http://localhost:3300/users
+
+###
+
+GET http://localhost:3300/users/63d00b2e463298fae9c948a8
+
+###
+
+POST http://localhost:3300/users
+Content-Type: application/json
+
+{
+    "name": "Test usersDude",
+    "userIsMemberOf": "Mazon"
+}
+
+###
+
+DELETE http://localhost:3300/users/63d00b2e463298fae9c948a8
+
+###
+
+PATCH http://localhost:3300/users/63d00b53463298fae9c948ab
+Content-Type: application/json
+
+{
+    "name": "New Updated Name",
+    "userIsMemberOf": "Mazon"
+}
