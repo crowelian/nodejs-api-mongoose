@@ -1,0 +1,19 @@
+{
+  _id: new ObjectId("63d00b53463298fae9c948ab"),
+  name: 'New Updated Name',
+  userIsMemberOf: 'Mazon',
+  userCreatedDate: 2023-01-24T16:46:11.298Z,
+  __v: 0
+},{
+  _id: new ObjectId("63d00d47affe7f57c3b3dd95"),
+  name: 'Test usersDude',
+  userIsMemberOf: 'Mazon',
+  userCreatedDate: 2023-01-24T16:54:31.319Z,
+  __v: 0
+},{
+  _id: new ObjectId("63dbf99113b1d5c80a8469cd"),
+  name: 'Test usersDude 444',
+  userIsMemberOf: 'Mazon',
+  userCreatedDate: 2023-02-02T17:57:37.543Z,
+  __v: 0
+}
