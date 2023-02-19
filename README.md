@@ -3,6 +3,7 @@
 ## Description:
 
 simple web server which uses routes and mongoose + mongodb to handle user data.
+The point of this project was to get familiar with mongoose and mongodb.
 
 ## Installation:
 
